@@ -58,7 +58,8 @@ httpd.serve_forever()
 ## Server side output:
 ![2](https://user-images.githubusercontent.com/119405017/210164847-d46c32ad-e735-4037-a493-934270b19037.png)
 ## Client side output:
-![1out](https://user-images.githubusercontent.com/119405017/210164852-593a3a6b-f865-4f42-9662-9edf5ab83f8f.png)
+![image](https://user-images.githubusercontent.com/119405017/210164885-3ed408cb-dfec-4d08-a50a-33c2a1e9d626.png)
+
 
 
 ## RESULT:
